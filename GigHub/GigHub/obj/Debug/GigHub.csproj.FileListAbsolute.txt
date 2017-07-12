@@ -82,3 +82,5 @@ C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.addmigrationInitialModel.resources
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.GreateGigTable.resources
+C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenre.resources
