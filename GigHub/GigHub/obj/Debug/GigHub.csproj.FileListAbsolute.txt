@@ -88,3 +88,4 @@ C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.Populate
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.viewmodelForm.resources
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.viewmodelForm1.resources
 C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.viewmodelForm2.resources
+C:\Users\daeyeop\Desktop\Gigs\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources

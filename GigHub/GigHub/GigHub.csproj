@@ -230,12 +230,17 @@
     <Compile Include="Migrations\201707122304264_viewmodelForm2.Designer.cs">
       <DependentUpon>201707122304264_viewmodelForm2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201707132318258_AddNameToApplicationUser.cs" />
+    <Compile Include="Migrations\201707132318258_AddNameToApplicationUser.Designer.cs">
+      <DependentUpon>201707132318258_AddNameToApplicationUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Gig.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="ViewModels\RegisterViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\FutureDate.cs" />
@@ -334,6 +339,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201707122304264_viewmodelForm2.resx">
       <DependentUpon>201707122304264_viewmodelForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707132318258_AddNameToApplicationUser.resx">
+      <DependentUpon>201707132318258_AddNameToApplicationUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
